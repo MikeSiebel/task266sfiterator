@@ -3,7 +3,7 @@
 Практическая работа из 26 модуля на курсе Skillfactory &ndash; PHPDEV.
 
 ## Содержание работы
-Дан `html`-код, с помощью итераций надо вырезать из него мета теги (`title`, `description`, `keywords`). 
+Дан файл с `html` кодом. С помощью итераций надо вырезать из него мета теги (`title`, `description`, `keywords`). 
 
 * Файл с html кодом: `"/htmlcode.html"`;
 * Изменённый файл сохраняется в: `"/editedhtmlcode.html"`;
